@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessMS.ExchangeHouse.API", "BusinessMS.ExchangeHouse.API\BusinessMS.ExchangeHouse.API.csproj", "{B6AD7EBC-1D78-40C2-AB71-6EC1CC0459CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6AD7EBC-1D78-40C2-AB71-6EC1CC0459CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6AD7EBC-1D78-40C2-AB71-6EC1CC0459CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6AD7EBC-1D78-40C2-AB71-6EC1CC0459CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6AD7EBC-1D78-40C2-AB71-6EC1CC0459CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80C3592B-1763-46E7-AAE2-CB61D0FE5078}
+	EndGlobalSection
+EndGlobal
